@@ -10,7 +10,7 @@ Questo, oltre che essere vantaggioso a livello personale, lo è ancora di più a
 
 Questa pratica non riduce solamente i costi di gestione, ma aumenta anche le performance e rende ogni sistema più sicuro, dato che sono isolati e se un sistema viene infettato, questo non può infettare le altre macchine (ogni macchina è in una sandbox).
 
-Per la creazione delle macchine virtuali ci affidiamo agli hypervisor, un software che ci permette non solo di crearle ma anche di gestirle.
+Per utilizzare le macchine virtuali ci affidiamo agli hypervisor, un software che ci permette non solo di crearle ma anche di gestirle.
 
 Ci sono 3 livelli di hypervisor:
 
