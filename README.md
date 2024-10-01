@@ -19,3 +19,11 @@ Ci sono 3 livelli di hypervisor:
 - Livello 2: funzionano sopra un sistema operativo host, che si occupa della gestione dell'hardware. L'hypervisor invece gestisce le macchine virtuali (ad esempio VirtualBox).
 
 - Livello 3: viene virtualizzato il software anziché l'intero sistema operativo (ad esempio Microsoft 365 su MacOS).
+
+-- Compito della lezione 1 --
+
+- Installazione di virtualbox
+
+- Installazione di Kali Linux, Metasploitable e Windows 10 su macchine virtuali
+
+Nota per Windows 10: affinché il sistema si avvi con successo, abilitare l'accelerazione 3d nelle impostazioni del sistema - livello esperto. 128mb di memoria video sono sufficienti.
